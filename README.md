@@ -12,6 +12,6 @@ Python · PyTorch · NumPy · Gymnasium · Unity · Git
 
 📫 Contact:
 ✉️ [Email](mailto:carsten.scholle@gmail.com) ·
-🔗 [LinkedIn](www.linkedin.com/in/carsten-scholle-367466223)
+🔗 [LinkedIn](https://www.linkedin.com/in/carsten-scholle-367466223/)
 🔬 [Research](https://scholar.google.de/citations?user=EULK3lMAAAAJ&hl=de)
 
