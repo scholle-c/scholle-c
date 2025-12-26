@@ -8,7 +8,7 @@
 - Reinforcement learning for multi-agent pathfinding problems
 
 ### 🛠️ Tools & technologies
-Python · PyTorch · NumPy · Gymnasium · Unity · Git
+Python · PyTorch · Unity · Git
 
 📫 Contact:
 ✉️ [Email](mailto:carsten.scholle@gmail.com) ·
