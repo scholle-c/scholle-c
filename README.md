@@ -2,13 +2,12 @@
 
 🎓 M.Sc. Computer Science student at the University of Bayreuth  
 🤖 Aspiring researcher in Multi-Agent Reinforcement Learning  
-🎮 Interested in research-oriented development and Unity-based applications  
 
 ### 🔬 Current focus
 - Reinforcement learning for multi-agent pathfinding problems
 
 ### 🛠️ Tools & technologies
-Python · PyTorch · Unity · Git
+Python · PyTorch · Git
 
 📫 Contact:
 ✉️ [Email](mailto:carsten.scholle@gmail.com) ·
