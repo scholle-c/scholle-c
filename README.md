@@ -1,13 +1,7 @@
-## Hi, I'm Carsten 👋
+## About me:
 
-🎓 M.Sc. Computer Science student at the University of Bayreuth  
-🤖 Aspiring researcher in Multi-Agent Reinforcement Learning  
-
-### 🔬 Current focus
-- Reinforcement learning for multi-agent pathfinding problems
-
-### 🛠️ Tools & technologies
-Python · PyTorch · Git
+- 🎓 Phd student at the University of Bayreuth 
+- 🔬 Focus on Multi-Agent Reinforcement Learning for multi-agent pathfinding problems
 
 📫 Contact:
 ✉️ [Email](mailto:carsten.scholle@gmail.com) ·
